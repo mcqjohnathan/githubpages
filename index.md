@@ -34,6 +34,8 @@ Syntax highlighted code block
 ![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/HorizonZeroDawnSapphire.png)
 ![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/SottrReference.png)
 ![Image of Benchmark](github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/SottrSapphire.png)
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
