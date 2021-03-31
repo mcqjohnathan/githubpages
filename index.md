@@ -1,6 +1,7 @@
 ## Welcome CSC496 HW Assignment
 
 ![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/Borderlands3Reference.png)
+![Drag Racing](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/Borderlands3Reference.png)
 ![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/Borderlands3Sapphire.png)
 ![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/FarCry5Reference.png)
 ![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/FarCry5Sapphire.png)
