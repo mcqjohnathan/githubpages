@@ -7,7 +7,7 @@
 ![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/HorizonZeroDawnReference.png)
 ![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/HorizonZeroDawnSapphire.png)
 ![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/SottrReference.png)
-![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/SottrSapphire.png)
+![Image of Benchmark](github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/SottrSapphire.png)
 
 
 ### Markdown
