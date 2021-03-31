@@ -1,5 +1,13 @@
 ## Welcome CSC496 HW Assignment
 
+
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
 ![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/Borderlands3Reference.png)
 ![Drag Racing](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/Borderlands3Reference.png)
 ![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/Borderlands3Sapphire.png)
@@ -10,13 +18,6 @@
 ![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/SottrReference.png)
 ![Image of Benchmark](github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/SottrSapphire.png)
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
