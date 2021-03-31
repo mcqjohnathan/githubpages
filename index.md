@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome CSC496 HW Assignment
 
-You can use the [editor on GitHub](https://github.com/mcqjohnathan/githubpages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/Borderlands3Reference.png)
+![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/Borderlands3Sapphire.png)
+![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/FarCry5Reference.png)
+![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/FarCry5Sapphire.png)
+![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/HorizonZeroDawnReference.png)
+![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/HorizonZeroDawnSapphire.png)
+![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/SottrReference.png)
+![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/SottrSapphire.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
