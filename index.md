@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/Borderlands3Reference.png)
+![Image of Benchmark](https://raw.githubusercontent.com/mcqjohnathan/CSC496/master/Documents/AutoGraph/FarCry5Reference.png)
 ![Drag Racing](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/Borderlands3Reference.png)
 ![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/Borderlands3Sapphire.png)
 ![Image of Benchmark](https://github.com/mcqjohnathan/CSC496/blob/master/Documents/AutoGraph/FarCry5Reference.png)
